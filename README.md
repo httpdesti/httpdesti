@@ -15,8 +15,8 @@
   <br>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhidayat22&layout=compact&theme=tokyonight" alt="Most used langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadhidayat22&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpdesti&layout=compact&theme=tokyonight" alt="Most used langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=httpdesti&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Github stats"/>
 
 </div>
 
