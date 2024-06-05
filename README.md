@@ -1,6 +1,6 @@
 
 <div id="header" align="left">
-  <h1>Hello there! My name is Desti Yulianingsih</h1>
+  <h1>Hello there, I'm Desti Yulianingsih! 👋</h1>
    <!-- <img src="[insert an image of yourself or something you like]" width="200"  --!>
 
   
