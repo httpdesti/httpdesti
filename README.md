@@ -1,12 +1,17 @@
 
-<div id="header" align="left">
-  <h1>Hello there, I'm Desti Yulianingsih! 👋</h1>
-   <!-- <img src="[insert an image of yourself or something you like]" width="200"  --!>
+
+   ## About Me
+
+Hi! I'm **Desti Yulianingsih**, a student at **Universitas Mulawarman** majoring in **Informatics**. I'm new to the world of development and am excited to dive deeper into programming, software development, and technology as I continue my journey.
+
+- 🎓 **Informatics student** at Universitas Mulawarman
+- 🌱 **Currently learning**: Basics of programming, algorithms, and web development
+- 💼 **Open to collaborations** on beginner-friendly projects to grow my skills
+- 📫 **How to reach me**: [Your email address or social media link]
 
   
   
   
-  </div>
 
 
 <div id="stats" align="center">
